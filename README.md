@@ -7,11 +7,14 @@
     <body>
       
      <h3> TABLE OF CONTENTS </h3>
+     <ul>
      
       <a href = "childhood.html"> CHILDHOOD </a>
       <a href = "teen.html"> TEENAGE YEARS </a>
       <a href = "future.html"> FUTURE DREAMS </a>
       <a href = "facts.html"> FACTS ABOUT ME </a>
+      
+      </ul>
 
       
         <h1> My name is Keerthana Hari </h1>
