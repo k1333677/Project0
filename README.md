@@ -14,7 +14,7 @@
 
      <h3> TABLE OF CONTENTS </h3>
 
-     <ul>
+     <ol>
 
       <li> <a href = "childhood.html"> CHILDHOOD </a> <li>
 
@@ -24,7 +24,7 @@
 
       <li> <a href = "facts.html"> FACTS ABOUT ME </a> <li>
 
-     </ul>
+     </ol>
 
      
   
