@@ -21,22 +21,22 @@ h3 {
    }
 
 #CHILDHOOD{
-   font size: 40px
+   font size: 90px
       border: 2px solid blue;
 }
 
 #TEENAGE YEARS{
-   font size: 40px
+   font size: 90px
       border: 2px solid green;
 }
 
 #FUTURE DREAMS{
-   font size: 40px
+   font size: 90px
       border: 2px solid orange;
 }
 
 #FACTS{
-      font-size: 40px
+      font-size: 90px
       text-align: center
       background-color: teal;
       margin: 30px
@@ -47,6 +47,7 @@ h3 {
 
 #table{
       th,td {
+         font-size: 90px
          text-align: center
          border: 2px solid black;
          border-collapse: collapse;
